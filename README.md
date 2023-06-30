@@ -26,7 +26,7 @@ Install node modules
 
 
 # Follow the following steps to get development environment running.
-Clone 'MERN-TravelHigh.git' repository from GitHub
+Clone 'flighticketbooking.git' repository from GitHub
 ```
  git clone https://github.com/imAryan24/flighticketbooking.git
 ```
